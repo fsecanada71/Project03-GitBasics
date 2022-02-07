@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is another commit
+=======
+This is again a commit
+>>>>>>> feature01
 
 And then we make a second committ
